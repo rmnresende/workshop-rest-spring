@@ -1,6 +1,12 @@
+*.class
 .DS_Store
+Servers/*
 .metadata
-.recommenders/**
-Servers/**
-RemoteSystemsTempFiles/**
-**/target/**
+.settings
+.classpath
+.project
+target/
+bin/
+rebel.xml
+.mvn*
+mvnw*
