@@ -1,4 +1,4 @@
-# workshop-rest-spring
+# O que é?
 
 Este é um fork do projeto <a href="https://github.com/algaworks/workshop-rest-spring">Workshop Rest com Spring</a> da Escola de cursos on-line <a href="http://www.algaworks.com">Algaworks</a>. 
 Neste workshop é dado uma introdução sobre como desenvolver uma API Rest usando Spring Boot com o banco de dados H2, 
